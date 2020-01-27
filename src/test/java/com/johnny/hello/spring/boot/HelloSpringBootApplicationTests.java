@@ -8,6 +8,7 @@ class HelloSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hello Spring Boot");
 	}
 
 }
